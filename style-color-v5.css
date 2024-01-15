@@ -1,0 +1,60 @@
+/* Black */
+.black{background-color: black;} 
+
+/* White */
+.white{background-color: white;}
+
+/* Shades of Gray */
+.gray{background-color: gray;} .darkgray{background-color: darkgray;} .lightgray{background-color: lightgray;} .slategray{background-color: slategray;}
+.silver{background-color: silver;} .dimgray{background-color: dimgray;} .lightSlateGray{background-color: lightSlateGray;}
+.cadetblue{background-color: cadetblue;} .darkslategray{background-color: darkslategray;}
+
+/* Shades of Blue */
+.navy{background-color: navy;} .mediumblue{background-color: mediumblue;} .skyblue{background-color: skyblue;}
+.blue{background-color: blue;} .turquoise{background-color: turquoise;}
+.deepskyblue{background-color: deepskyblue;} .cornflowerblue{background-color: cornflowerblue;} .steelblue{background-color: steelblue;}
+.powderblue{background-color: powderblue;} .lightsteelblue{background-color: lightsteelblue;} .mediumslateblue{background-color: mediumslateblue;}
+.royalblue{background-color: royalblue;} .dodgerblue{background-color: dodgerblue;}
+.cornflowerblue{background-color: cornflowerblue;} .lightblue{background-color: lightblue;} .aliceblue{background-color: aliceblue;}
+
+/* Shades of Green */
+.darkgreen{background-color: darkgreen;} .lime{background-color: lime;} .olivedrab{background-color: olivedrab;}
+.olive{background-color: olive;} .green{background-color: green;} .forestgreen{background-color: forestgreen;}
+.mediumseagreen{background-color: mediumseagreen;} .darkseagreen{background-color: darkseagreen;} .limegreen{background-color: limegreen;}
+.springgreen{background-color: springgreen;}
+
+/* Shades of Yellow */
+.goldenrod{background-color: goldenrod;} .khaki{background-color: khaki;} .lemonchiffon{background-color: lemonchiffon;}
+.yellow{background-color: yellow;} .gold{background-color: gold;} .darkkhaki{background-color: darkkhaki;}
+.lightgoldenrodyellow{background-color: lightgoldenrodyellow;} .palegoldenrod{background-color: palegoldenrod;} .khaki{background-color: khaki;}
+.goldenrod{background-color: goldenrod;}
+
+/* Shades of Red */
+.darkred{background-color: darkred;}.indianred{background-color: indianred;}.firebrick{background-color: firebrick;}
+.red{background-color: red;} 
+
+/* Shades of Purple */
+.purple{background-color: purple;} .darkpurple{background-color: darkpurple;} .mediumorchid{background-color: mediumorchid;}.blueviolet{background-color: blueviolet;}
+.mediumpurple{background-color: mediumpurple;} .darkorchid{background-color: darkorchid;} .rebeccapurple{background-color: rebeccapurple;}
+.plum{background-color: plum;} .lavender{background-color: lavender;}
+
+/* Additional Colors */
+.darkcyan{background-color: darkcyan;} .mediumaquamarine{background-color: mediumaquamarine;} .darkorange{background-color: darkorange;}
+
+/* Shades of Pink */
+.pink{background-color: pink;} .lightpink{background-color: lightpink;} .hotpink{background-color: hotpink;}
+.deeppink{background-color: deeppink;} .palevioletred{background-color: palevioletred;} .magenta{background-color: magenta;} 
+.lightcoral{background-color: lightcoral;}
+
+/* Shades of Brown */
+.brown{background-color: brown;} .darkgoldenrod{background-color: darkgoldenrod;} .peru{background-color: peru;}
+.chocolate{background-color: chocolate;} .saddlebrown{background-color: saddlebrown;} .beige{background-color: beige;}
+.rosybrown{background-color: rosybrown;}
+
+/* Shades of Orange */
+.orange{background-color: orange;} .darkorange{background-color: darkorange;} .coral{background-color: coral;}
+.tomato{background-color: tomato;} .orangered{background-color: orangered;}
+
+/* Shades of Cyan */
+.cyan{background-color: cyan;} .lightcyan{background-color: lightcyan;} .aqua{background-color: aqua;}
+.cyan{background-color: cyan;} .darkcyan{background-color: darkcyan;}
